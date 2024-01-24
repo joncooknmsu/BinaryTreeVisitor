@@ -1,0 +1,4 @@
+echo "Compiling..."
+javac *.java
+echo "Running with size 13 tree..."
+java BinaryTree 13
